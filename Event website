@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>GDG Task</title>
+    </head>
+    <body bgcolor="black" style="color: white;">
+        <center><h1>Upcoming Event📅</h1>
+
+        <p>Don't miss any of your important events.  Here are the important events you have registered for?</p></center>
+        <hr>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur tenetur molestias sit omnis corrupti a reiciendis eveniet expedita inventore suscipit iusto, quia maiores, quam recusandae ipsam fugiat! Labore nihil amet dolor quia, dolores beatae nostrum odit voluptatibus, quidem illo assumenda corporis, placeat fuga ea nam necessitatibus ad repudiandae expedita quasi. ipsum dolor sit, amet consectetur adipisicing elit. Incidunt debitis aspernatur suscipit harum vero dolorum sed perferendis voluptas voluptatem, ratione sit quis assumenda nam nobis excepturi! Ea similique suscipit quos amet eum, repellat totam, nesciunt assumenda quidem, adipisci nemo tempora expedita. Nostrum ullam illum quae harum dignissimos nam ea dolorem!
+        </p>
+        <center><img src="C:\Users\SRIRAM S\Downloads\event1.png" alt="welcome to our gallery">
+        <h3>Photo Gallery Event</h3>
+        <h4>Free Entry | Free Food | Pets Not Allowed </h4>
+        </center>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem labore recusandae numquam odit corporis! Quasi repudiandae quas praesentium maiores dolor harum nobis molestias doloribus quibusdam porro repellendus minima id facere blanditiis laboriosam consequatur iste laborum tenetur unde, explicabo dolorem labore. ipsum dolor sit amet consectetur adipisicing elit. Repellat nihil deleniti commodi repellendus aspernatur et, voluptates nisi consequuntur qui, ut reiciendis nemo, incidunt suscipit facere!</p>
+        <center><img src="D:\Java Program\event\event2.png" alt="Fashion sale"><br>
+            <a href="https://www.myntra.com">Fashion Store</a>
+            <h4>Free Entry | Free Food | Pets are Not Allowed</h4>
+        </center>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia nobis expedita tenetur iusto commodi quos, fuga temporibus ullam non omnis tempora porro, officia, fugit in. ipsum dolor sit amet consectetur, adipisicing elit. Iusto eaque earum culpa, nihil et deleniti?</p>
+        <hr>
+        <center><h3>Contact</h3>
+        <h3>+91 787483783743 | eventcollab@gmail.com</h3>
+        <p>9th street Avenue Park, Trichy, 625620</p>
+        </center>
+    </body>
+</html> 
